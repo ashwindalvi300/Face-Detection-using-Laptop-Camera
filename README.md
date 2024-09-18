@@ -26,7 +26,7 @@ Before running the project, ensure you have the following installed:
 ## Installation
 1. Clone the repository or download the project files:
     ```bash
-    git clone https://github.com/ashwindalvi300/face-detection.git
+    git clone https://github.com/ashwindalvi300/Face-Detection-using-Laptop-Camera.git
     ```
 
 2. Navigate to the project directory:
