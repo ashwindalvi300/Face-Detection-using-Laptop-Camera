@@ -31,7 +31,7 @@ Before running the project, ensure you have the following installed:
 
 2. Navigate to the project directory:
     ```bash
-    cd face-detection
+    cd Face-Detection-using-Laptop-Camera
     ```
 
 3. Install the required libraries using `pip`:
